@@ -1,0 +1,28 @@
+
+select {
+    height: 3rem;
+  }
+  
+  option {
+    color: #e76d6d;
+    font-weight: 600;
+  }
+  
+  @media (min-width: 640px) {
+    select {
+      height: 2.5rem;
+    }
+  }
+  
+  body {
+    font-family: "Kitab", sans-serif;
+  }
+  
+  .arabic-text {
+    font-family: "AlQalamQuranMajeedWeb", serif;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
